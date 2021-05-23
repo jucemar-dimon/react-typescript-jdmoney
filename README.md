@@ -1,4 +1,7 @@
+# :rocket: Rocketseat - Ignite - ReactJS
+## Capítulo II
+
 # Conceitos envolvidos
-- CSS-in-JS
-- Hooks
-- Fake API
+- [x] CSS-in-JS
+- [x] Hooks
+- [x] Fake API
